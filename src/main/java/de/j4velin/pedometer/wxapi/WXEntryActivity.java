@@ -16,6 +16,8 @@ import de.j4velin.pedometer.ui.Constants;
 
 import static de.j4velin.pedometer.ui.ShareActivity.TAG;
 
+//This file is added by njucszxy
+
 public class WXEntryActivity extends Activity implements IWXAPIEventHandler {
     // IWXAPI 是第三方app和微信通信的openapi接口
     private IWXAPI api;

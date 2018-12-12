@@ -40,6 +40,8 @@ import de.j4velin.pedometer.R;
 import de.j4velin.pedometer.ui.Fragment_Overview;
 import de.j4velin.pedometer.util.Util;
 
+//This file is added by njucszxy
+
 public class ShareActivity extends Activity implements WbShareCallback {
 
     private int since_boot,goal,total_days,total_start,todayOffset,steps_today;

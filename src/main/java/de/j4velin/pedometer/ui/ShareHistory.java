@@ -20,6 +20,8 @@ import java.util.List;
 
 import de.j4velin.pedometer.R;
 
+//This file is added by njucszxy
+
 public class ShareHistory extends Activity {
 
     @Override
