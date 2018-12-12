@@ -336,5 +336,4 @@ public class Fragment_Overview extends Fragment implements SensorEventListener {
             barChart.setVisibility(View.GONE);
         }
     }
-
 }

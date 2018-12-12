@@ -102,6 +102,10 @@ public class Activity_Main extends FragmentActivity {
                         Uri.parse("http://j4velin.de/faq/index.php?app=pm"))
                         .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
                 break;
+            case R.id.action_share:
+                Intent intent = new Intent(Activity_Main.this,ShareActivity.class);
+                startActivity(intent);
+                break;
             case R.id.action_about:
                 AlertDialog.Builder builder = new AlertDialog.Builder(this);
                 builder.setTitle(R.string.about);

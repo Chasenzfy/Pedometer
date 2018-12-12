@@ -33,6 +33,11 @@
     <string name="achievements">成就</string>
     <string name="leaderboard">排行榜</string>
     <string name="faq">常见问题</string>
+    <string name="share">分享</string>
+    <string name="motto">想说的话...</string>
+    <string name="weibo">分享到微博</string>
+    <string name="wechat">分享到微信</string>
+    <string name="history">分享历史</string>
     <string name="goal_reached_notification">达成目标！已走了 %s 步</string>
     <string name="notification_text">还有 %s 步</string>
     <string name="total">共计</string>
